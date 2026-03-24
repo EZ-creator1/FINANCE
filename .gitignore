@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 数据集 / 大文件
+data/
+*.csv
+*.zip
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 系统文件
+.DS_Store
